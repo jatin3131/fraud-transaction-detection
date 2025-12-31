@@ -9,6 +9,10 @@ The dataset simulates mobile money transactions and includes the following key d
 
 Volume: 6,362,620 transactions.
 
+--------------
+Dataset Link
+https://drive.google.com/file/d/1GDzzt9sdWzDeW127Fsr7ds1LEDAFGG0y/view?usp=sharing
+--------------
 Attributes: Transaction type, amount, origin/destination balances (pre and post-transaction), and time-step.
 
 Target Variable: isFraud (Binary indicator of fraudulent activity).
